@@ -1,0 +1,7 @@
+id: pipx-reinstall-needed-after-local-edits
+title: pipx reinstall needed after local edits
+state: active
+notes: 'After editing source, run: pipx install . --force. Once on PyPI, just: pipx
+  upgrade td-cli'
+created: 2026-02-10 15:16:15.508021
+updated: 2026-02-10 15:16:23.731173

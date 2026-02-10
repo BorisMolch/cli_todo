@@ -1,0 +1,6 @@
+id: add-install-instructions-to-skill-after-pypi-publish
+title: Add install instructions to skill after PyPI publish
+state: later
+parent: publish-to-pypi
+created: &id001 2026-02-10 15:20:42.394932
+updated: *id001
