@@ -1,6 +1,6 @@
 # td
 
-A local task state manager for your projects. Designed for humans and LLMs.
+A local-first task state manager for your projects. Designed for humans and LLMs.
 
 `td` tracks what you're working on, what you've parked, and what's done — using simple state labels instead of complex workflows.
 
