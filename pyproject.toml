@@ -17,5 +17,5 @@ dev = ["pytest"]
 [project.scripts]
 td = "td.cli:cli"
 
-[tool.setuptools.packages.find]
-include = ["td*"]
+[tool.setuptools]
+packages = ["td"]
