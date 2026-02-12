@@ -7,7 +7,7 @@ A local task state manager for your projects. Designed for humans and LLMs.
 ## Install
 
 ```bash
-pipx install td-cli
+pipx install td-todo-cli
 ```
 
 ## Quick Start
